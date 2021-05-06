@@ -1,0 +1,7 @@
+C:\Users\USER\source\repos\nominal\nominal\bin\Debug\nominal.exe.config
+C:\Users\USER\source\repos\nominal\nominal\bin\Debug\nominal.exe
+C:\Users\USER\source\repos\nominal\nominal\bin\Debug\nominal.pdb
+C:\Users\USER\source\repos\nominal\nominal\obj\Debug\nominal.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\nominal\nominal\obj\Debug\nominal.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\nominal\nominal\obj\Debug\nominal.exe
+C:\Users\USER\source\repos\nominal\nominal\obj\Debug\nominal.pdb

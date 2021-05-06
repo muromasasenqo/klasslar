@@ -1,0 +1,7 @@
+C:\Users\USER\source\repos\point\point\bin\Debug\point.exe.config
+C:\Users\USER\source\repos\point\point\bin\Debug\point.exe
+C:\Users\USER\source\repos\point\point\bin\Debug\point.pdb
+C:\Users\USER\source\repos\point\point\obj\Debug\point.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\point\point\obj\Debug\point.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\point\point\obj\Debug\point.exe
+C:\Users\USER\source\repos\point\point\obj\Debug\point.pdb

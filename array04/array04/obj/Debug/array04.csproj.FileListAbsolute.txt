@@ -1,0 +1,7 @@
+C:\Users\USER\source\repos\array04\array04\obj\Debug\array04.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\array04\array04\obj\Debug\array04.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\array04\array04\bin\Debug\array04.exe.config
+C:\Users\USER\source\repos\array04\array04\bin\Debug\array04.exe
+C:\Users\USER\source\repos\array04\array04\bin\Debug\array04.pdb
+C:\Users\USER\source\repos\array04\array04\obj\Debug\array04.exe
+C:\Users\USER\source\repos\array04\array04\obj\Debug\array04.pdb
